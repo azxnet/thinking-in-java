@@ -2,11 +2,11 @@
 
 本书来自网络，整理成电子书。
 
-阅读地址：[https://www.gitbook.com](https://www.gitbook.com)
+阅读地址：[https://azxnet.gitbook.io/thinking-in-java](https://azxnet.gitbook.io/thinking-in-java)
 
-下载地址：[https://www.gitbook.com](https://www.gitbook.com)
+下载地址：[https://azxnet.gitbook.io/thinking-in-java](https://azxnet.gitbook.io/thinking-in-java)
 
-github地址：[https://github.com](https://github.com)
+github地址：[https://github.com/azxnet/thinking-in-java](https://github.com/azxnet/thinking-in-java)
 
 
 
