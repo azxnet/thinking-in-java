@@ -10,7 +10,7 @@
         "headerPath": "layouts/header.html",
         "footerPath": "layouts/footer.html",
         "baidu": {
-            "token": "0dc0e6ff81f835b8c1dbd9c41fb21c2b"
+            "token": "0dc0e6ff81f835b8c1dbd9c41fb21c2c"
         },
         "tbfed-pagefooter": {
             "copyright": "Copyright &copy anzx.github.io 2020",
