@@ -1,4 +1,4 @@
-## Thinking in Java Java编程思想
+# Thinking in Java Java编程思想
 
 本书来自网络，整理成电子书。
 
@@ -9,6 +9,4 @@
 github地址：[https://github.com/azxnet/thinking-in-java](https://github.com/azxnet/thinking-in-java)
 
 
-
-![](/images/cover.jpg)
-
+![封面](images/cover.jpg)
